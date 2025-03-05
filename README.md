@@ -1,1 +1,0 @@
-# Pavyzdys kaip kuriami branchai

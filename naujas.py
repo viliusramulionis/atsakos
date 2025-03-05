@@ -1,1 +1,1 @@
-print("Naujas failas")
+print("Naujas")
